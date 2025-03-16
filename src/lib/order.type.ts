@@ -1,4 +1,4 @@
-
+//Tipo das orders
 export interface OrderProps{
   id: string;
   table: number;
